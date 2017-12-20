@@ -1,2 +1,0 @@
-# image-matting
-image matting
